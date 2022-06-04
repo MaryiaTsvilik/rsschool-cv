@@ -1,18 +1,28 @@
 
 # MARYIA TSVILIK  
----
+
+
 ## JUNIOR FRONTEND DEVELOPER
+
 ***
+
 ### CONTACT ME
+
 __A1:__ _+375293609429_
-__Linkedin:__ _www.linkedin.com/in/maryia-tsvilik-qa_
+
+[__Linkedin:__](_www.linkedin.com/in/maryia-tsvilik-qa_)
+
 __Telegram:__ _@MaryiaTsvilik_
+
 __Skype:__ _live:.cid.eaf8ae93bff93804_
+
 __email:__ _maryia.tsvilik@gmail.com_
+
 ***
+
 ### ABOUT ME
 ``` 
-I am a dedicated, organized and result-driven
+I am a dedicated, organized and result-driven 
 person who is always seeking ways to perform
 better in every aspect of life.
 
@@ -34,6 +44,7 @@ widen my horizons.
 ***
 
 ### EDUCATION
+
 * ___SKYENG RU,___ _Jan 2022 - Present time_
 Individual lessons with a teacher Course: General English Intermediate Level
 * ___EPAM,___ _Apr 2022 - Present time_
@@ -44,8 +55,11 @@ Individual lessons with a teacher Course: General English Intermediate Level
 Software testing, QA Engineer
 * ___Minsk Innovation University,___ _Jun 2011_
 Faculty of Economics, Marketing economist.
+
 ***
+
 ### EXPERIENCE
+
 ___Junior Project Manager
 Marketing Agency Himedia,___ _Sep 2021 - Jan 2022
 Moscow City, Russia_
@@ -65,24 +79,40 @@ contracts.
 + Market analysis, search and involvement of experts and participants for the project.
 + Preparation of financial statements.
 + Work in 1C Accounting, Client-Bank.
+
 ***
+
 ### HARD SKILLS
+
 __1. HTML,CSS__
+
 __2. SQL__ 
-Select, Where (and, or, not) Between, Insert Into, Count, AVG, SUM, Group By, like, Order By, Desc, Union, Join (Inner, Left, Right, Full)
+
+Select, Where (and, or, not) Between, Insert Into, Count, AVG, SUM, Group By, like, Order By, Desc, Union, Join (Inner, Left, Right, Full).
+
 __3. Git__
+
 Working with local and remote repositories, creating and removing repositories, adding and
 removing files /git status, git add, git commit, git push, git pull, git checkout, git merge.
+
 __4. Postman__
+
 Sending requests (GET, POST) recording the environment exporting the collection, tokens usage, checking the response code.
+
 __5. DevTools__
+
 Code viewing (elements errors, scripts, server requests responses). Storage usage, the
-design adaptability check,location/user agent change and logs recording
+design adaptability check,location/user agent change and logs recording.
+
 __6. Knowledge of software testing, Testing Methods, Test design techniques, Mobile
-Testing, Client-Server Architecture__
+Testing, Client-Server Architecture.__
+
 __7. Tools: Jira, Sublime Text, Basecamp 3, Trello, Miro, Canva.__
+
 ***
+
 ### SOFT SKILLS 
+
 + Enhanced responsibility
 + Performance and goal oriented approach
 + Observation and attentiveness to details
@@ -90,8 +120,14 @@ __7. Tools: Jira, Sublime Text, Basecamp 3, Trello, Miro, Canva.__
 + Flexible thinking and ability to learn fast
 + Good abstract and analytical thinking
 + Presentation skills
+
 ***
+
 ### LANGUAGES
+
 _Russian_ - Native
+
 _Belarusian_ - Native
+
 _English_ - A2 (B1 in progress)
+
