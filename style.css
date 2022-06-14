@@ -1,0 +1,140 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url("assets/fonts/Roboto-Black.ttf");
+}
+*
+
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto';
+}
+body 
+{
+    background: lightyellow;
+    display: flex;
+    justify-content: center;
+    align-items: 100vh;
+}
+.container
+{
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 1000px;
+    background: #fff;
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 0 35px 55px rgba(0,0,0,0.1);
+} 
+.container .left_Side
+{
+    position: relative;
+    background: #f4f4f4;
+    padding: 40px;
+}
+.profileText
+{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #2c3638;
+}
+.profileText .image
+{
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+.profileText .image img
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    object-fit: cover;
+}
+.profileText h2
+{
+    color: #444440;
+    font-size: 1.5em;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+.profileText h2 span
+{
+    font-size: 0.8em;
+    font-weight: 300;
+}
+.contact
+{
+   padding-top: 40px; 
+}
+.title
+{
+    color: #444440;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+.contact ul
+{
+    position: relative;
+}
+.contact ul li
+{
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;
+}
+.contact ul li .icon
+{
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: #444440;
+}
+.contact ul li span
+{
+    color: #444440;
+    font-weight: 100;
+}
+.contact.education li
+{
+    margin-bottom: 15px;
+}
+.contact.education h5
+{
+    color: #444440;
+    font-weight: 500;
+}
+.contact.education h4:nth-child(2)
+{
+    color: #444440;
+    font-weight: 500;
+}
+.contact.education h4
+{
+    color: #444440;
+    font-weight: 300;
+}
+
+
+
+.container .right_Side
+{
+    position: relative;
+    background: #f4f4f4;
+    padding: 40px;
+}
